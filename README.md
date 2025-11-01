@@ -2,7 +2,7 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,+Welcome!&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=435&lines=Chess+Engine+Dev;Software+Engineer;Performance+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=435&lines=Chess+Engine+Developer;Software+Engineer;Performance+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
   
 </div>
 
@@ -10,17 +10,18 @@
 
 <br>
 
+![](https://komarev.com/ghpvc/?username=Aethdv&label=Profile%20views&style=flat&color=EB3232)
+
 ### My Tech Arsenal
 
 <div align="left">
   
-  ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=282a36&color=bd93f9)
-  ![Rust](https://img.shields.io/badge/Rust%20-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white&labelColor=282a36&color=ff6e96)
-  ![Python](https://img.shields.io/badge/Python%20-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white&labelColor=282a36&color=50fa7b)
-  ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&labelColor=282a36&color=8be9fd)
-  ![React](https://img.shields.io/badge/React%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white&labelColor=282a36&color=ffb86c)
-  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34C26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=282a36&color=ff5555)
-  ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=282a36&color=f1fa8c)
+![C++](https://img.shields.io/badge/C++-A3BCA9?style=for-the-badge&labelColor=8390A2&color=282a36&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-A3BCA9?style=for-the-badge&labelColor=C9A798&color=282a36&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-A3BCA9?style=for-the-badge&labelColor=D4B774&color=282a36&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-A3BCA9?style=for-the-badge&labelColor=A3BCA9&color=282a36&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-A3BCA9?style=for-the-badge&labelColor=B47878&color=282a36&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-A3BCA9?style=for-the-badge&labelColor=A89BB2&color=282a36&logo=css3&logoColor=white)
   
 </div>
 
