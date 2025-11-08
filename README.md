@@ -1,10 +1,10 @@
 ## Hello! I'm Aethdv.
 I am interested in Software Engineering, chess, armwrestling, anime and math!
 
-I am known for:
+I'm known for:
 - contributing to [Clockwork](<https://github.com/official-clockwork/Clockwork>), a collaborative HCE chess engine aiming to take that #1 HCE spot
 - creating [Locus](<https://github.com/Aethdv/Locus>), a tool where you can benchmark your cpu on multiple types of workloads
-- being goofy, misunderstood and stupid in the [Stockfish's discord server](<https://discord.gg/GWDRS3kU6R>)
+- being goofy in the [Stockfish's discord server](<https://discord.gg/GWDRS3kU6R>)
 
 ![](https://komarev.com/ghpvc/?username=Aethdv&label=Profile%20views&style=flat&color=EB3232)
 
