@@ -1,6 +1,4 @@
 ## Hello! I'm Aethdv.
-I am interested in Software Engineering, Open-Source, Optimization, SIMD, Machine Learning, GameDev and WebDev<br>
-In the free time I like to play chess, armwrestle and watch anime!
 
 I'm known for:
 - contributing to [Clockwork](<https://github.com/official-clockwork/Clockwork>), a collaborative α/β HCE chess engine aiming to take that ranked #1 HCE spot
