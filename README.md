@@ -1,9 +1,8 @@
 ## Hello! I'm Aethdv.
 
 I'm known for:
-- contributing to [Clockwork](<https://github.com/official-clockwork/Clockwork>), a collaborative α/β HCE chess engine aiming to take that ranked #1 HCE spot
-- creating [Locus](<https://github.com/Aethdv/Locus>), a tool where you can benchmark your cpu on multiple types of workloads
-- being goofy in the [Stockfish discord server](<https://discord.gg/GWDRS3kU6R>)
+- contributing to [Clockwork](<https://github.com/official-clockwork/Clockwork>), a collaborative α/β HCE chess engine aiming to take that ranked #1 HCE spot,
+- creating [Locus](<https://github.com/Aethdv/Locus>), a tool where you can benchmark your cpu on multiple types of workloads.
 
 ![](https://komarev.com/ghpvc/?username=Aethdv&label=Profile%20views&style=flat&color=EB3232)
 
