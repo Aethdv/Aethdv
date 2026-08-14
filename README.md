@@ -1,9 +1,10 @@
 ## Hello! I'm Aethdv
 
 I'm known for:
-- creating [Soul](<https://github.com/Aethdv/Soul>), my own HCE α/β chess engine, 
+- creating [Soul](<https://github.com/Aethdv/Soul>), my own HCE α/β chess engine,
+- creating [Valence](<https://github.com/Aethdv/Valence>), a contemporary distributed testing for chess engines,
 - creating [Locus](<https://github.com/Aethdv/Locus>), a tool where you can benchmark your cpu on multiple types of workloads,
-- contributing to [Clockwork](<https://github.com/official-clockwork/Clockwork>), a collaborative α/β HCE chess engine aiming to take that ranked #1 HCE spot.
+- contributing to [Clockwork](<https://github.com/official-clockwork/Clockwork>), a collaborative α/β HCE chess engine.
 
 ![](https://komarev.com/ghpvc/?username=Aethdv&label=Profile%20views&style=flat&color=EB3232)
 
