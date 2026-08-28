@@ -1,4 +1,4 @@
-## Hello! I'm Aethdv
+## Hello! I'm Aeth
 
 I'm known for:
 - creating [Soul](<https://github.com/Aethdv/Soul>), my own HCE α/β chess engine,
@@ -9,7 +9,4 @@ I'm known for:
 <div align="center">
   <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Aethdv&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9572E8&icon_color=F85149&text_color=c9d1d9&count_private=true" />
   <img align="right" width="380" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aethdv&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=9572E8&text_color=c9d1d9" />
-</div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aethdv&theme=react-dark&hide_border=true&bg_color=0d1117&color=9572E8&line=DE6789&point=F85149&area=true" width="98%" />
 </div>
